@@ -4,8 +4,7 @@
     <groupId>com.mycompany</groupId>
     <artifactId>POEP1</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
-    
+    <packaging>jar</packaging> 
     <build>
     <plugins>
         <plugin>
